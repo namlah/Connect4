@@ -1,0 +1,2 @@
+# Connect4
+develop and engineer a simple connect four mini-game using python 3 and its respective multimedia library pygame. This is a great starting off protect for users who have a beginner to intermediate level of skill who want to show some project work to go with their development. The way this is going to work is that we will try to create a command line-based game, and work our way up to the graphical game later
